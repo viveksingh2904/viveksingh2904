@@ -104,4 +104,4 @@
   />
 </picture>
 
-[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekmani2904&theme=github-compact)](https://github.com/vivekmani2904/github-readme-activity-graph)
+[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viveksingh2904&theme=github-compact)](https://github.com/viveksingh2904/github-readme-activity-graph)
