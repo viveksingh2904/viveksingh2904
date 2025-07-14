@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+AbhiTech.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+Vivek.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 <h3 align="center">
     I'm a Full Stack Developer 🌐
@@ -20,7 +20,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in INDIA.
-* ✉  You can contact me at [abhishekmani1008@gmail.com](mailto:vivekmani2904@gmail.com)
+* ✉  You can contact me at [vivekmani2904@gmail.com](mailto:vivekmani2904@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
 * 🧠  I'm currently learning Artificial Intelligence and Machine Learning. 
 * 🤝  I'm open to collaborating on any interesting projects.
@@ -104,4 +104,4 @@
   />
 </picture>
 
-[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-singh-007&theme=github-compact)](https://github.com/Abhishek-singh-007/github-readme-activity-graph)
+[![Vivek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekmani2904&theme=github-compact)](https://github.com/vivekmani2904/github-readme-activity-graph)
